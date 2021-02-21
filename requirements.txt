@@ -1,0 +1,125 @@
+anaconda-client==1.7.2
+anaconda-navigator==1.9.12
+appdirs==1.4.4
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+Automat==20.2.0
+backcall==0.2.0
+backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1605305165209/work
+backports.tempfile==1.0
+backports.weakref==1.0.post1
+beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+brotlipy==0.7.0
+certifi==2020.11.8
+cffi @ file:///C:/ci/cffi_1605538112425/work
+chardet @ file:///C:/ci/chardet_1605303225733/work
+click==7.1.2
+clyent==1.2.2
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+conda==4.9.2
+conda-build==3.18.11
+conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
+conda-verify==3.4.2
+constantly==15.1.0
+cryptography @ file:///C:/ci/cryptography_1605526388508/work
+cssselect==1.1.0
+decorator==4.4.2
+defusedxml==0.6.0
+distlib==0.3.1
+entrypoints==0.3
+filelock==3.0.12
+future==0.18.2
+glob2==0.7
+hyperlink==21.0.0
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+incremental==17.5.0
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1604083276484/work
+ipython-genutils==0.2.0
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
+itemadapter==0.2.0
+itemloaders==1.0.4
+jedi @ file:///C:/ci/jedi_1598353661586/work
+Jinja2==2.11.2
+jmespath==0.10.0
+json5==0.9.5
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-console==6.2.0
+jupyter-core @ file:///C:/ci/jupyter_core_1606149073702/work
+jupyterlab==2.2.6
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+libarchive-c==2.9
+lxml==4.6.2
+MarkupSafe==1.1.1
+menuinst==1.4.16
+mistune==0.8.4
+navigator-updater==0.2.1
+nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
+nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
+notebook @ file:///C:/ci/notebook_1601501643625/work
+numpy==1.20.1
+olefile==0.46
+packaging==20.4
+pandas==1.2.2
+pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
+parsel==1.6.0
+parso==0.7.0
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+pkginfo==1.6.1
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+Protego==0.1.16
+psutil @ file:///C:/ci/psutil_1598370330503/work
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyDispatcher==2.0.5
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+PyHamcrest==2.0.2
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing==2.4.7
+pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==19.0.2
+qtconsole==5.0.2
+QtPy==1.9.0
+queuelib==1.5.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+ruamel-yaml==0.15.87
+Send2Trash==1.5.0
+service-identity==18.1.0
+sip==4.19.13
+six @ file:///C:/ci/six_1605187374963/work
+soupsieve==2.0.1
+terminado==0.9.1
+testpath==0.4.4
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+virtualenv==20.2.1
+virtualenvwrapper-win==1.2.6
+w3lib==1.22.0
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+xmltodict==0.12.0
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+zope.interface==5.2.0
